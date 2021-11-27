@@ -1,5 +1,6 @@
 # Current Languages
 
+- C# (CSharp)
 - C++
 - C
 - Java
@@ -8,4 +9,5 @@
 - PHP
 - Python
 - Ruby
+- Rust
 - SQL
