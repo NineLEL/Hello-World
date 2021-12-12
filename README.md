@@ -5,6 +5,7 @@
 - C
 - Java
 - JavaScript
+- Kotlin
 - Perl
 - PHP
 - Python
