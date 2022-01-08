@@ -12,3 +12,4 @@
 - Ruby
 - Rust
 - SQL
+- Typescript
