@@ -1,8 +1,10 @@
 # Current Languages
 
+- BASIC
 - C# (CSharp)
 - C++
 - C
+- Go
 - Java
 - JavaScript
 - Kotlin
@@ -13,4 +15,3 @@
 - Rust
 - SQL
 - Typescript
-- Go
