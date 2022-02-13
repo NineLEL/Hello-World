@@ -13,3 +13,4 @@
 - Rust
 - SQL
 - Typescript
+- Go
